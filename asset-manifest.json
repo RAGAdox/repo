@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3c2a985.chunk.css",
-    "main.js": "/static/js/main.589faaaa.chunk.js",
-    "main.js.map": "/static/js/main.589faaaa.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2fd7dc15.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2fd7dc15.js.map",
-    "static/js/2.1658440b.chunk.js": "/static/js/2.1658440b.chunk.js",
-    "static/js/2.1658440b.chunk.js.map": "/static/js/2.1658440b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.c3c2a985.chunk.css.map": "/static/css/main.c3c2a985.chunk.css.map",
-    "static/js/2.1658440b.chunk.js.LICENSE.txt": "/static/js/2.1658440b.chunk.js.LICENSE.txt"
+    "main.css": "/repo/static/css/main.c3c2a985.chunk.css",
+    "main.js": "/repo/static/js/main.8fc9a88d.chunk.js",
+    "main.js.map": "/repo/static/js/main.8fc9a88d.chunk.js.map",
+    "runtime-main.js": "/repo/static/js/runtime-main.35e5ee4b.js",
+    "runtime-main.js.map": "/repo/static/js/runtime-main.35e5ee4b.js.map",
+    "static/js/2.1658440b.chunk.js": "/repo/static/js/2.1658440b.chunk.js",
+    "static/js/2.1658440b.chunk.js.map": "/repo/static/js/2.1658440b.chunk.js.map",
+    "index.html": "/repo/index.html",
+    "static/css/main.c3c2a985.chunk.css.map": "/repo/static/css/main.c3c2a985.chunk.css.map",
+    "static/js/2.1658440b.chunk.js.LICENSE.txt": "/repo/static/js/2.1658440b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2fd7dc15.js",
+    "static/js/runtime-main.35e5ee4b.js",
     "static/js/2.1658440b.chunk.js",
     "static/css/main.c3c2a985.chunk.css",
-    "static/js/main.589faaaa.chunk.js"
+    "static/js/main.8fc9a88d.chunk.js"
   ]
 }
